@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zajtools-zaj-mysql-mcp-badge.png)](https://mseep.ai/app/zajtools-zaj-mysql-mcp)
+
 # zaj-MySQL-MCP
 
 A Model Context Protocol (MCP) server implementation that provides database interaction and business intelligence capabilities through MySQL. This server enables running SQL queries, analyzing business data, and automatically generating business insight memos.
